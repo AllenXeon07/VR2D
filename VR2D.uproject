@@ -49,6 +49,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "Omniverse",
+			"Enabled": false
 		}
 	]
 }
